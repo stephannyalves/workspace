@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\cliente-ms"
+		},
+		{
+			"path": "..\\locacao-ms\\locacao-ms"
+		},
+		{
+			"path": "..\\eureka\\eureka"
+		},
+		{
+			"path": "..\\locacao-ms\\Zuul"
+		}
+	],
+	"settings": {}
+}
